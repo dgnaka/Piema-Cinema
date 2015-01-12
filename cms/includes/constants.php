@@ -1,7 +1,7 @@
 <?php
 //DB Constants
-define("DB_SERVER", "127.0.0.1");
-define("DB_USER", "root");
-define("DB_PASS", "");
-define("DB_NAME", "cms");
+define("DB_SERVER", "186.202.127.9");
+define("DB_USER", "lpadul4_Admin");
+define("DB_PASS", "a1b2c3");
+define("DB_NAME", "lpadul4_Piema");
 ?>
